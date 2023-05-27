@@ -1,0 +1,20 @@
+.filter {
+  max-width: 900px;
+  height: 35px;
+  display: flex;
+  align-items: center;
+  column-gap: 20px;
+}
+
+.filter__settings {
+  width: 100%;
+  display: flex;
+  column-gap: 10px;
+  height: 100%;
+}
+
+.filter__button {
+  width: 150px;
+  height: 100%;
+  box-shadow: 3px 3px #0B88D7;
+}

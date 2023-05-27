@@ -1,0 +1,9 @@
+.page {
+  display: flex;
+  flex-direction: column;
+  max-width: 1440px;
+  height: 100vh;
+  margin: auto;
+  border-right: 1px solid #dee6ed;
+  border-left: 1px solid #dee6ed;
+}

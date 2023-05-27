@@ -1,0 +1,14 @@
+.secondary-button {
+  max-width: 200px;
+  padding: 10px;
+  background-color: #FDFDFD;
+  border: 1px solid #EBECFA;
+  border-radius: 2px;
+  font-size: 14px;
+  line-height: 18px;
+  cursor: pointer;
+}
+
+.secondary-button:hover {
+  opacity: 0.6;
+}

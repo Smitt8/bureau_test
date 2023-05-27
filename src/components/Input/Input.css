@@ -1,0 +1,15 @@
+.input {
+  max-width: 300px;
+  width: 100%;
+  height: 100%;
+  padding: 5px;
+  box-sizing: border-box;
+  border: 1px solid #8F8F9D;
+  border-radius: 2px;
+}
+
+.input::placeholder {
+  font-size: 14px;
+  line-height: 18px;
+  opacity: 0.8;
+}

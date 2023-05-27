@@ -1,0 +1,15 @@
+.primary-button {
+  max-width: 200px;
+  padding: 10px;
+  background-color: #009FDB;
+  border: 1px solid #0096D6;
+  border-radius: 2px;
+  color: #fff;
+  font-size: 14px;
+  line-height: 18px;
+  cursor: pointer;
+}
+
+.primary-button:hover {
+  opacity: 0.6;
+}
